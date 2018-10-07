@@ -1,0 +1,2 @@
+C:\Users\jamie\Documents\GitHub\TileMap Tutorial\TileMap Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\jamie\Documents\GitHub\TileMap Tutorial\TileMap Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
